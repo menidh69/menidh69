@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * INOWU Development 
 * Amosai Dev
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png)
 Format: ![Alt Text](url)
 
 How to reach me: manuelduarteh@gmail.com
