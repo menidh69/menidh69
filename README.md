@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on private projects with INOWU Development and Amosai Dev
+- 🔭 I’m currently working private projects with:
+* INOWU Development 
+* Amosai Dev
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 How to reach me: manuelduarteh@gmail.com
