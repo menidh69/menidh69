@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 * INOWU Development 
 * Amosai Dev
 
-```
+
 ![Visitor Count](https : //profile-counter.glitch.me/menidh69/count.svg)
-```
+
 
 How to reach me: manuelduarteh@gmail.com
