@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on private projects with INOWU Development and Amosai Dev
+
+How to reach me: manuelduarteh@gmail.com
