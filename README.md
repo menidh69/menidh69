@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💬 Ask me about The Mandalorian, huge fan of Grogu 
+
 - 🔭 I’m currently working private projects with:
 * INOWU Development 
 * Amosai Dev
 
 
-![Visitor Count](https : //profile-counter.glitch.me/menidh69/count.svg)
 
 
-How to reach me: manuelduarteh@gmail.com
+📫 How to reach me: manuelduarteh@gmail.com
