@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💬 Ask me about The Mandalorian, huge fan of Grogu 
 
 - 🔭 I’m currently working private projects with:
-* INOWU Development 
+* Pinnacle Aerospace
 * Amosai Dev
 
 
